@@ -1,5 +1,5 @@
 # fundamentos_POO_taller_1
-Respuestas a Preguntas de Comprensión - Taller 2
+Respuestas a Preguntas de Comprensión - Taller 1
 1. ¿Qué ventaja tiene dibujar el diagrama UML antes de escribir el código? Te ahorra tiempo y dolores de cabeza. Primero maquetas la estructura de la clase y ves rápido si te faltan atributos o métodos. Es básicamente hacer el plano de la casa antes de tirarse a pegar ladrillos en el código.
 2. ¿A qué parte del código corresponde cada una de las tres divisiones del diagrama de clases?
 Arriba: El nombre de la clase (public class NombreClase).
